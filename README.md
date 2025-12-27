@@ -1,4 +1,4 @@
-# :book: EduGPT - Your AI Instructor
+# Your AI Instructor
 
 This repo demonstrates an implementation of an AI Instructor using LLMs.
 
@@ -56,10 +56,6 @@ To interact with this AI Instructor:
 - First, you need to input your interested topic in the tab *Input Your Information*.
 - Then, it will design a syllabus of that topic for you.
 - Finally, feel free to interact with your instructor, you can ask them to teach you from that syllabus.
-
-## Contact Us
-
-For questions, you can [contact the repo author](mailto:huynhquynhanh2003@gmail.com).
 
 
 ## Contributing
