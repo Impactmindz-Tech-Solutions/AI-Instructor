@@ -58,6 +58,3 @@ To interact with this AI Instructor:
 - Finally, feel free to interact with your instructor, you can ask them to teach you from that syllabus.
 
 
-## Contributing
-
-Contributions are highly encouraged!
